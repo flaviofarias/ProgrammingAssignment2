@@ -25,6 +25,7 @@ makeCacheMatrix <- function(x = numeric()) {
         }
 
         # returns the stored matrix
+        
         getMatrix <- function() {
                 x
         }
